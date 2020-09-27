@@ -1,2 +1,2 @@
 # weatherapp
-This is my first app for looking up the weather in different cities in the world
+With this website u can see weather of cities in USA. I created using Django with Airnow.com API. It will show the current temperature and how it feels to people.
